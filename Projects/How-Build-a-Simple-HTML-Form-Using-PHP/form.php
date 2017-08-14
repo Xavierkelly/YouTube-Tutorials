@@ -6,6 +6,10 @@
     max-width: 100%;
     color: #2c2d2b;
 }
+body{
+    margin:0;
+    padding: 0;
+}
 .button-container{
     padding: 20px;
     text-align: center;
