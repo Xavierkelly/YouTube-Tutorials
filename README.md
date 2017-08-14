@@ -6,4 +6,4 @@ The code base for all the YouTube tutorials.
 
 [YouTube Video](https://www.youtube.com/watch?v=RUEtwIq1Fyo).
 
-Date: 8/14/2017.⋅⋅
+Date: 8/14/2017
