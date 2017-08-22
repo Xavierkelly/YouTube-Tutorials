@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>How to Make a Circle in HTML and CSS</title>
+How to Make a Circle in HTML and CSS
+<style>
+    *{
+        padding: 0 ;
+        margin: 0 ;
+    }
+    .square-container{
+        background-color: #4280b8;
+        padding: 200px 0;
+    }
+    .center{
+        margin: 0 auto;
+    }
+    .square{
+        width: 200px;
+        height: 200px;
+        background-color: #ffffff;
+    }
+    .shadow{
+        box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+        -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+        -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+        -o-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+        -webkit-transform: perspective(1px) translateZ(0);
+         transform: perspective(1px) translateZ(0);
+    }
+</style>
+</head>
+
+<body>
+    <div class="square-container">
+        <div class="center square shadow"></div>
+    </div>
+</body>
+
+</html>
