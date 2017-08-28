@@ -13,4 +13,11 @@ Date: 8/14/2017
 
 [YouTube Video](https://www.youtube.com/watch?v=8xCmuJDi7JA).
 
-Date: 8/22/2017
+Date: 8/22/2017 - 1 Day Late
+
+### How to Make a Circle in HTML and CSS
+[Code Base](https://github.com/Xavierkelly/YouTube-Tutorials/tree/master/Projects/How-to-Make-a-Circle-in-HTML-and-CSS)
+
+[YouTube Video](https://youtu.be/TZMzNP3pcek).
+
+Date: 8/28/2017
