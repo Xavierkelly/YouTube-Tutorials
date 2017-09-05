@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>How to make a click-to-call button for your website</title>
+<style>
+.phonelink{
+    position: fixed; /* Lock location always on the scree */
+    bottom: 0; /* Set to the bottom */
+    right: 0; /* Set to the right */
+    margin: 30px; /* Add space around background */
+}
+.phoneicon{
+    width: 40px; /* Set width of icon */
+    height: 40px; /* Set height of icon */
+}
+@media screen and (max-width: 480px){
+    .lgscreenphone{
+        display: none;  /* On small screens make phone icon disappear */
+    }
+    .mbscreenphone{
+        display: block; /* On small screens make phone icon appear */
+    }
+}
+@media screen and (min-width: 481px){
+    .mbscreenphone{
+        display: none; /* On large screens make phone icon disappear */
+    }
+    .lgscreenphone{
+        display: block; /* On large screens make phone icon appear */
+    }
+}
+</style>
+</head>
+
+<body>
+    <a class="lgscreenphone phonelink" href="https://www.youtube.com/channel/UCQQ9KdZl80R78hZjb8Q_3NQ"><img class="phoneicon" src="https://freeiconshop.com/wp-content/uploads/edd/phone-flat.png"></a>
+    <a class="mbscreenphone phonelink" href="tel:9402188899"><img class="phoneicon" src="https://freeiconshop.com/wp-content/uploads/edd/phone-flat.png"></a>
+</body>
+
+</html>
