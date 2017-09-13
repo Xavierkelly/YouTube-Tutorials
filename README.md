@@ -28,3 +28,10 @@ Date: 8/28/2017
 [YouTube Video](https://youtu.be/N_w-3FTp2Uo).
 
 Date: 9/05/2017 - 2 Day Late
+
+### How to Display a Post Title in WordPress
+[Code Base](https://github.com/Xavierkelly/YouTube-Tutorials/blob/master/Projects/How%20to%20Display%20a%20Post%20Title%20in%20WordPress/index.php)
+
+[YouTube Video](https://youtu.be/5TMCl5Bvu30).
+
+Date: 9/13/2017 - 2 Day Late
